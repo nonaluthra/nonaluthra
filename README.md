@@ -19,7 +19,7 @@
 <a href="https://twitter.com/_nonaluthra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nonaluthra_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nonaluthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nonaluthra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abhicoderss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhicoderss" height="30" width="40" /></a>
-<a href="https://instagram.com/abhicoderss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhicoderss" height="30" width="40" /></a>
+<a href="https://instagram.com/_amishaluthra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhicoderss" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amishaluthra2307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amishaluthra2307" height="30" width="40" /></a>
 </p>
 
