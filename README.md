@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nona Luthra</h1>
 <h3 align="center">A passionate about Programming & Web Designing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonaluthra" alt="nonaluthra" /></a> </p>
-
 - 🔭 I’m currently working on **Web Project**
 
 - 🌱 I’m currently learning **React & NodeJS**
@@ -31,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonaluthra&show_icons=true&locale=en&layout=compact" alt="nonaluthra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonaluthra&show_icons=true&locale=en" alt="nonaluthra" /></p>
+
