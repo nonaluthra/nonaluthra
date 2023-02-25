@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on **Web Project**
 
-- 🌱 I’m currently learning **React & NodeJS**
-
+- 🌱 I’m a 5 star coder of C++ on **Hackerrank**
 - 👯 I’m looking to collaborate on **React Project**
 
 - 📝 I regularly write articles on [https://dev.to/nonaluthra](https://dev.to/nonaluthra)
