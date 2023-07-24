@@ -6,7 +6,7 @@
 - 🌱 I’m a 5 star coder of C++ on **Hackerrank**
 - 👯 I’m looking to collaborate on **React Project**
 
-- 📝 I regularly write articles on [https://dev.to/nonaluthra](https://dev.to/nonaluthra)
+- 📝 I regularly write articles on [https://shorturl.at/jACS0)
 
 - 📫You Can Reach me on **nonaluthra@gmail.com**
 
