@@ -6,11 +6,11 @@
 - 🌱 I’m a 5 star coder of C++ on **Hackerrank**
 - 👯 I’m looking to collaborate on **React Project**
 
-- 📝 I regularly write articles on [https://shorturl.at/jACS0)
+- 📝 I regularly write articles on **https://dev.to/nona2307**
 
 - 📫You Can Reach me on **nonaluthra@gmail.com**
 
-- 📄Download My Resume [https://bit.ly/nonaresume](https://bit.ly/nonaresume)
+- 📄Download My Resume **https://shorturl.at/jACS0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
