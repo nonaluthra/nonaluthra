@@ -4,13 +4,13 @@
 - 🔭 I’m currently working on **Web Project**
 
 - 🌱 I’m a 5 star coder of C++ on **Hackerrank**
-- 👯 I’m looking to collaborate on **React Project**
+- 👯 I’m looking to collaborate on **Web Development Project**
 
 - 📝 I regularly write articles on **https://dev.to/nona2307**
 
 - 📫You Can Reach me on **nonaluthra@gmail.com**
 
-- 📄Download My Resume **https://shorturl.at/jACS0**
+- 📄Download My Resume **https://drive.google.com/file/d/18ZcuR5pv8_X-3rgcSprVROHykOPthUET/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
