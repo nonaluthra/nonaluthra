@@ -10,7 +10,7 @@
 
 - 📫You Can Reach me on **nonaluthra@gmail.com**
 
-- 📄Download My Resume **https://drive.google.com/file/d/18ZcuR5pv8_X-3rgcSprVROHykOPthUET/view?usp=sharing**
+- 📄Download My Resume **https://drive.google.com/file/d/1csl-I4QpnM5U50Ntywmt-SR77XjVJL5i/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
