@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Web Project**
 
 - 🌱 I’m a 5 star coder of C++ on **Hackerrank**
-- 
+  
 - 👯 Working as a Software Developer Intern @HP Inc
 
 - 📝 I regularly write articles on **https://dev.to/nona2307**
