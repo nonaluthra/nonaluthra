@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nona Luthra</h1>
 <h3 align="center">A passionate about Programming & Web Designing</h3>
 
-- 🔭 I’m currently working on **Web Project**
+- 🔭 Working as a Software Developer Intern @HP Inc
 
-- 🌱 I’m a 5 star coder of C++ on **Hackerrank**
+- 🌱 Technology Stack : .Net Core , Selenium , ReactJs 
   
-- 👯 Working as a Software Developer Intern @HP Inc
+- 👯 I’m a 5 star coder of C++ on **Hackerrank**
 
 - 📝 I regularly write articles on **https://dev.to/nona2307**
 
