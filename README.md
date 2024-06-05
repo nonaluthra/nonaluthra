@@ -4,13 +4,14 @@
 - 🔭 I’m currently working on **Web Project**
 
 - 🌱 I’m a 5 star coder of C++ on **Hackerrank**
-- 👯 I’m looking to collaborate on **Web Development Project**
+- 
+- 👯 Working as a Software Developer Intern @HP Inc
 
 - 📝 I regularly write articles on **https://dev.to/nona2307**
 
 - 📫You Can Reach me on **nonaluthra@gmail.com**
 
-- 📄Download My Resume **https://drive.google.com/file/d/1csl-I4QpnM5U50Ntywmt-SR77XjVJL5i/view?usp=sharing**
+- 📄Download My Resume **https://drive.google.com/file/d/1xVXVio-mlY2o4xq_D_8wEEKkGgCc9ofT/view**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
